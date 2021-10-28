@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SimonLars
 - 👀 I’m interested in iOS programming
 - 🌱 I’m currently learning the language Swift
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any software project
 - 📫 How to reach me? You can send me an e-mail to simon@simonhesse.com
 
 <!---
